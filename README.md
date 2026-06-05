@@ -1,4 +1,4 @@
-# Engineering Report: Bank Customer Churn Predictive Modeling
+# Bank Customer Churn Predictive Modeling
 
 This report documents the end-to-end development, evaluation, and engineering pipeline for a high-performance customer churn prediction system. The primary goal is to identify at-risk customers with high precision and recall, allowing for targeted retention strategies before capital flight occurs.
 
